@@ -42,7 +42,7 @@ floating containers make it easier to see which objects are in which containers,
 ![image](https://github.com/parvezs27/Northwind_Traders_Analysis/assets/107979122/69e77aad-e203-4f95-a5f2-68f20b8eb28c)
 
 
-
+rather than writing interpretations on the dashboard and take up space, keep it separate on the documentation page
 
 
 
